@@ -1,0 +1,5 @@
+br\ifms\tsi\ipli\alunoservice\Aluno.class
+br\ifms\tsi\ipli\alunoservice\ServiceDaoAlunoWs.class
+br\ifms\tsi\ipli\alunoservice\AlunoDao.class
+br\ifms\tsi\ipli\alunoservice\FabricaGerenciadordeEntidades.class
+br\ifms\tsi\ipli\alunoservice\Servidor.class

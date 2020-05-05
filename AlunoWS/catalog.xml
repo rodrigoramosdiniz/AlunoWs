@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:9000/calcws?WSDL" uri="xml-resources/web-service-references/calcws/wsdl/localhost_9000/calcws.wsdl"/>
+    <system systemId="http://localhost:9000/calcws?xsd=1" uri="xml-resources/web-service-references/calcws/wsdl/localhost_9000/calcws.xsd_1.xsd"/>
+    <system systemId="http://localhost:7000/aluns?WSDL" uri="xml-resources/web-service-references/aluns/wsdl/localhost_7000/aluns.wsdl"/>
+    <system systemId="http://localhost:7000/aluns?xsd=1" uri="xml-resources/web-service-references/aluns/wsdl/localhost_7000/aluns.xsd_1.xsd"/>
+    <system systemId="file:/C:/Users/Rodrigo/Documents/4º%20SEMESTRE/aluns-soapui-project.xml" uri="xml-resources/web-service-references/aluns-soapui-project/wsdl/aluns-soapui-project.xml"/>
+    <system systemId="file:/C:/Users/Rodrigo/Documents/4º%20SEMESTRE/Android/aluns-soapui-project.xml" uri="xml-resources/web-service-references/aluns-soapui-project_1/wsdl/aluns-soapui-project.xml"/>
+    <system systemId="http://localhost:3000/aluns?WSDL" uri="xml-resources/web-service-references/aluns/wsdl/localhost_3000/aluns.wsdl"/>
+    <system systemId="http://localhost:3000/aluns?xsd=1" uri="xml-resources/web-service-references/aluns/wsdl/localhost_3000/aluns.xsd_1.xsd"/>
+    <system systemId="http://localhost:4000/aluns?WSDL" uri="xml-resources/web-service-references/aluns/wsdl/localhost_4000/aluns.wsdl"/>
+    <system systemId="http://localhost:4000/aluns?xsd=1" uri="xml-resources/web-service-references/aluns/wsdl/localhost_4000/aluns.xsd_1.xsd"/>
+    <system systemId="http://localhost:9000/aluns?WSDL" uri="xml-resources/web-service-references/aluns/wsdl/localhost_9000/aluns.wsdl"/>
+    <system systemId="http://localhost:9000/aluns?xsd=1" uri="xml-resources/web-service-references/aluns/wsdl/localhost_9000/aluns.xsd_1.xsd"/>
+    <system systemId="http://localhost:5000/aluns?WSDL" uri="xml-resources/web-service-references/aluns/wsdl/localhost_5000/aluns.wsdl"/>
+    <system systemId="http://localhost:5000/aluns?xsd=1" uri="xml-resources/web-service-references/aluns/wsdl/localhost_5000/aluns.xsd_1.xsd"/>
+    <system systemId="http://localhost:8000/aluns?WSDL" uri="xml-resources/web-service-references/aluns/wsdl/localhost_8000/aluns.wsdl"/>
+    <system systemId="http://localhost:8000/aluns?xsd=1" uri="xml-resources/web-service-references/aluns/wsdl/localhost_8000/aluns.xsd_1.xsd"/>
+</catalog>
